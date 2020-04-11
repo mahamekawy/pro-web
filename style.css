@@ -1,0 +1,241 @@
+.bg-dark
+{
+    background-color: #04204e !important;
+}
+.navbar-brand
+{
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 28px;
+}
+.navbar-dark .navbar-nav .nav-link{
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.navbar-dark .navbar-nav .nav-item{
+    margin: 0 15px;
+}
+ .carousel-inner .carousel-item img{
+  
+    width:100px;
+    height:600px
+}
+.carousel-caption h2,p {
+    color: #000;
+
+}
+.aboutus
+{
+    padding: 55px 0;
+    text-align: center;
+    background-color: #e8ecf3;
+
+}
+.aboutus h1
+{
+
+    font-style: 45px;
+    margin-bottom: 55px;
+    color:#c09029;
+    font-family: 'Times New Roman', Times, serif;
+}
+.aboutus p
+{
+
+    font-size: 18px;
+  
+    color: #04204e;
+    
+
+}
+.services{
+    padding: 55px 0;
+    background-color: #04204e;
+    text-align: center;
+    height: auto;
+}
+.services .card
+{
+    border:3px solid #0a1725;
+    
+
+} 
+.services h1{
+    margin-bottom: 55px;
+    color:#c09029;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.services .card-body
+{
+    padding: 1.25rem;
+    background-color: #be9949;
+}
+.services .card-img-top
+{
+    width: 100%;
+    height: 400px;
+}
+.services .card-body .card-title
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: #061a37;
+    font-weight: 700;
+    font-size: large;
+}
+.services .card-body .card-text
+{
+    color: #fff;
+ 
+}
+.services .btn-primary{
+
+    color: #fff;
+    background-color: #061a37;
+    border-color:#0062cc;
+
+}
+.services .btn-primary:hover{
+
+    color: #fff;
+    background-color:#0062cc ;
+    border-color:#0062cc;
+
+}
+.Projects
+{
+    padding: 55px 0;
+    background-color: #04204a1a;
+    text-align: center;
+}
+.Projects h1{
+    font-size: 45px;
+    margin-bottom: 55px;
+    color:#c09029;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Projects .figure{
+    margin-top: 28px;
+}
+.figure-caption{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 5px;
+    color: #04204a;
+}
+/*Contact sectiom*/
+.content-header{
+    font-family: 'Oleo Script', cursive;
+    color:#c09029;
+    font-size: 45px;
+  }
+  
+  .section-content{
+    text-align: center; 
+  
+  }
+  #contact{
+      
+    font-family: 'Teko', sans-serif;
+    padding-top: 60px;
+    width: 100%;
+    height: 800px;
+    background: #a9c2da; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #071a2c , #02050c); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left ,#be9949, #071a2c ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+      color : #fff;    
+  }
+  .contact-section{
+    padding-top: 50px;
+
+  }
+  .contact-section .col-md-6{
+    width: 50%;
+  }
+  
+  .form-line{
+    border-right: 1px solid rgb(241, 151, 47);
+  }
+  
+  .form-group{
+    margin-top: 20px;
+  }
+  label{
+    font-size: 1.3em;
+    line-height: 1em;
+    font-weight: normal;
+  }
+  .form-control{
+    font-size: 1.3em;
+    color: #080808;
+  }
+  textarea.form-control {
+      height: 135px;
+      margin-top: 10px;
+    
+  }
+  
+  .submit{
+    font-size: 1.1em;
+    float: right;
+    width: 150px;
+    background-color: white;
+    color: rgb(241, 151, 47);
+  
+  }
+  
+
+
+.footer
+{
+    background-color: #04204a;
+    padding: 55px 0 25px;
+    
+}
+.footer h5{
+    color:rgb(241, 151, 47);
+    font-size:22px ;
+    font-weight: 700;
+  text-transform: uppercase;
+border-bottom:  1 px solid #ffffff30;
+padding-bottom: 10px;
+margin-bottom: 20px;
+font-family: 'Times New Roman', Times, serif;
+}
+.footer ul 
+{
+padding-left: 0;
+list-style: none;
+}
+.footer ul li{
+    line-height: 28px;
+    font-weight: 600;
+}
+.footer ul li a{
+       color: #ffffff80;
+
+
+}
+.footer ul li a :hover{
+    color: #ffffff80;
+
+}
+.footer p{
+    color: #ffffff80;
+    margin-bottom: 7px;
+}
+.copyright
+{
+    height: 40px;
+    background-color: #be9949;
+    line-height: 40px;
+}
+.copyright p{
+  
+    margin-bottom: 0;
+    color:#04204a;
+    text-align: center;
+    font-size: 24px;
+}
